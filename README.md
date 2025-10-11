@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mark701&label=Profile%20views&color=0e75b6&style=flat" alt="mark701" /> </p>
 
-- 🌱 I’m currently learning **Data Scinece**
+-  I’m currently Looking For a Job  **Full Stack Devloper**
 
-- 💬 Ask me about **.Net , Angular, Data processing**
+- 💬 Ask me about **.Net , Angular
 
 - 📫 How to reach me **Mark.emad83@gmail.com**
 
