@@ -5,7 +5,7 @@
 
 -  I’m currently Looking For a Job  **Full Stack Devloper**
 
-- 💬 Ask me about **.Net , Angular
+- 💬 Ask me about .Net , Angular, React
 
 - 📫 How to reach me **Mark.emad83@gmail.com**
 
